@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## References 
+```
+https://github.com/samuelsonbrito/produtos-front/blob/master/src/services/produtos.js
+```
